@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo dnf install -y httpd
+yum install -y httpd
